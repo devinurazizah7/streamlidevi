@@ -15,7 +15,7 @@ st.set_page_config(
 
 # Telegram Bot Configuration
 TELEGRAM_BOT_TOKEN = "7754603821:AAEArAmBjCm8yI5vdsVkroY1g-DqOE5Bcjo"
-TELEGRAM_CHAT_ID = "@haidevi123_bot"  # Ganti dengan chat ID Anda
+TELEGRAM_CHAT_ID = " 1458169344"  # Ganti dengan chat ID Anda
 
 def send_telegram_message(message):
     """Kirim pesan ke Telegram bot"""
